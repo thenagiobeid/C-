@@ -1,0 +1,10 @@
+# Untracked files
+
+#as prescribed by hw7p2
+x.x
+*.ppm
+*.PPM
+*.o
+*.swp
+*.h.gch
+asteroids
